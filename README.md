@@ -1,3 +1,3 @@
 # Frogger
 
-This is a frogger game I am trying to refactoring into OOP
+This is a frogger game we are trying to refactoring into OOP
